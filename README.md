@@ -1,6 +1,5 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Ini adalah judul atau konten dari versi README.md di GitHub.
+Beberapa baris lain dari versi GitHub.
 
 ## Get started
 
