@@ -1,0 +1,1046 @@
+[
+  {
+    "id": 1,
+    "nama": "de Semilir Coffeeshop",
+    "rating": 4.9,
+    "alamat": "·",
+    "latitude": -7.7642798,
+    "longitude": 110.378801,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxmcyMdyrzHC1F9HScQLTiYY7LJLVuW8Z7tngx09eNC5klzKhJXGFy6pbAfTEeRlmper7ll0xgI6jubC5IhUXEj7J284sRMO23Cx2_-ZAM8F3jVtmwAh2T9-ePl0PNI9f6vK4My=w122-h92-k-no"
+  },
+  {
+    "id": 2,
+    "nama": "Hoja Coffee Bar",
+    "rating": 4.3,
+    "alamat": "·",
+    "latitude": -7.7658125,
+    "longitude": 110.3795469,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzIpJ_0BNjkf3LD9NtopOqyDrwvsS_E2cHH1lUxJJb94BACCuDJiTP_HrMwQVy61sEM0bm9CkEWinmDkkL1GXwxHARzhw3eYmWaJYQwrYMHBm6rCcADvnA1DH85rMcXaU44K1_TJ_24U4gp=w80-h142-k-no"
+  },
+  {
+    "id": 3,
+    "nama": "CAPSLOCK COFFEE",
+    "rating": 4.5,
+    "alamat": "Blk. A No.a15",
+    "latitude": -7.7609515,
+    "longitude": 110.3766033,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwGA4zXbDIYfA6bJLLYT1KVEF0GzL_YB5ggi1Py5R2rhzdku90MdoCVooAdpeq_3nki29NXwxtx5lL2Wa2U9tSKP-4RIaSx8BaGbBeJcaN19JOjfuju1PIqtMG5liGI2txW8y-8OQ=w122-h92-k-no"
+  },
+  {
+    "id": 4,
+    "nama": "MUSEA Coffee & Eatery",
+    "rating": 4.8,
+    "alamat": "699G+74F, Jl. Cik Di Tiro",
+    "latitude": -7.7818142,
+    "longitude": 110.3753019,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzTMjjlOIfpAwNCNwvSW8_dsWdKs5GGtYDhnyiXIMPNhRyRr8etJ6iPyJ6lymxsAynAd5iry-wWaZqZz7NZZT-Skbn2uixNG8qCBfL_ZuCbc4dSN1NNXtbqpMA8IEc0nPMUw69r8B-yafr1=w80-h106-k-no"
+  },
+  {
+    "id": 5,
+    "nama": "Mr.LIKE",
+    "rating": 4.6,
+    "alamat": "Jl. Gambir",
+    "latitude": -7.7666858,
+    "longitude": 110.3845753,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzffrUHhUBYqwI5UD4OQCFN35X64P2_qceYlMfVv2MzoBNIhB22ztCxW1nXHms1dtctQYEY62r78VLVcsxro4NCXBMVY6DPZvbB3l7xn5OxPuHPy9s5oa0bFnzlFe5ht-8l8LJ9Dg=w163-h92-k-no"
+  },
+  {
+    "id": 6,
+    "nama": "SeeU Coffee",
+    "rating": 4.8,
+    "alamat": "Jl. Agro No.210",
+    "latitude": -7.7663174,
+    "longitude": 110.381009,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipOdXjRKBEiEByLxGNZnuTfAQXSijFhVo-x393Xa=w122-h92-k-no"
+  },
+  {
+    "id": 7,
+    "nama": "NAWWA KOPI",
+    "rating": 4.7,
+    "alamat": "Jl. Colombo No.30, RW.02",
+    "latitude": -7.7772735,
+    "longitude": 110.3828225,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipMpHDUI4gOepDdxdtBBMndV6acduPFWIYmkVe28=w80-h142-k-no"
+  },
+  {
+    "id": 8,
+    "nama": "Khwa Coffee Yogyakarta",
+    "rating": 4.9,
+    "alamat": "Jl. Sagan Utara No.12",
+    "latitude": -7.7793587,
+    "longitude": 110.3783122,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipPKDJuwCMAYgNJsGQnrZPAj1o4rbE0DWwKaNaMB=w80-h142-k-no"
+  },
+  {
+    "id": 9,
+    "nama": "Lantai Bumi",
+    "rating": 4.4,
+    "alamat": "·",
+    "latitude": -7.7596891,
+    "longitude": 110.3763809,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyn94RxWWnGl_YX9Ndx9TAw1UyztAgirqiicDRer8_O5inZggQNJme1erZn-mM6OvJO3NxM8VK64lQAVAHQqRUamXvOfPWl9J0UnyO4zAlIhewD2fUwlKM8Ge-rsrlLYJcOHBY=w163-h92-k-no"
+  },
+  {
+    "id": 10,
+    "nama": "Nuju Coffee Sagan Yogyakarta | Coffee Shop Yogyakarta",
+    "rating": 4.9,
+    "alamat": "69CH+9Q5, Jl. Prof. Dr. Ir. Herman Johannes No.1030",
+    "latitude": -7.7790085,
+    "longitude": 110.3794778,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxr_jc1EnzFlzk5BzaYVrcpB7gSwHidfzcTUpLh9b6cq_oMIDVOSuPu3qHPoHd53IaziKAmWkw5WKtf0FVS6kKWM7Sg3ZFHQ0hKajkYBZ1uOWGDq7YDAfJXTAzXh2CTlaqt8-W7jWQtu7ey=w80-h106-k-no"
+  },
+  {
+    "id": 11,
+    "nama": "Coklat Cafe",
+    "rating": 4.5,
+    "alamat": "·",
+    "latitude": -7.778882,
+    "longitude": 110.375355,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyK-o4yNe-egcTaCqYunVr2KmEqL0meo3-x15Hg1kAZnemovi6gmAAE53PFJwL_hX_k1FdHazPmXATCQtPKda1XfxZf9iBV_VTC2FUtvpx_wjCkr7KALFmxihUkhZOD9LEj54tv=w122-h92-k-no"
+  },
+  {
+    "id": 12,
+    "nama": "Estuary Café",
+    "rating": 4.6,
+    "alamat": "·",
+    "latitude": -7.7634358,
+    "longitude": 110.3698101,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipNU4ag74OFsZvRG5imnqv6bZ-6O4bfrKOvn-JJl=w138-h92-k-no"
+  },
+  {
+    "id": 13,
+    "nama": "SENJA Coffee & Memories",
+    "rating": 4.6,
+    "alamat": "·",
+    "latitude": -7.7654631,
+    "longitude": 110.3788442,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwJt9DI8WVuB1FZ47ZgUx3kMKGy6AO5k7l6WasFgFtvB9D4T9-wjd-V1swu-sdaYWHKxGtO9Qq8hcdOIEWN25HjgMmnhRF1T-pIKmH_qLSfIiE-B6Mv_OUUwzYctu5UnJg6aOsWdA=w122-h92-k-no"
+  },
+  {
+    "id": 14,
+    "nama": "Sorea Urban Forest",
+    "rating": 4.6,
+    "alamat": "Jl. Gambir Karangasem Baru Bulaksumur",
+    "latitude": -7.7662448,
+    "longitude": 110.3883733,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSww4h49ZSnjZETU-HasgIbQMFII38zpzcGeN2ZWWBKM6D_FaB91j45usUyr0iQ6Rj2pS6l_GXP1yIBXMu6uacBaNwZVf4JqF7XciSFAt5s0pfZYBNyHhHSjpeHogctZ4kw1GL9d-g=w122-h92-k-no"
+  },
+  {
+    "id": 15,
+    "nama": "Kemari Coffee & space jakal",
+    "rating": 4.6,
+    "alamat": "·",
+    "latitude": -7.7584801,
+    "longitude": 110.3828046,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzloOOHvtdd0P8b-MSCSWNoiWS9ysIQBqIvrHC6Qwc6qnh7Tv4us8hc7nuHyaHMP30z3Dds_Xb9xqFVcolrPqUFN-EtFG8vczN_99ZwZMW3vn-buCiFpnDuVvUeBVsDPk3zYp9-=w122-h92-k-no"
+  },
+  {
+    "id": 16,
+    "nama": "Obie Cafe & Space",
+    "rating": 4.7,
+    "alamat": "Jl. Pogung Raya",
+    "latitude": -7.7565308,
+    "longitude": 110.3749286,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz8uo3WPCHirP4rOK4Ft6TDeKYzZ0pC85jDr_gbAd5goTEgY42Pjl4tt1FkrqJlpr-NGE45b9z8KWfXPWFLaq1chgks3cZCKazHHGPXfkFQTdLkDOZfUvannuHJGBaFHIZ8_s2Z=w204-h92-k-no"
+  },
+  {
+    "id": 17,
+    "nama": "Homi Coffee And Space",
+    "rating": 4.4,
+    "alamat": "Jl. Kenari No.7",
+    "latitude": -7.7783299,
+    "longitude": 110.3937611,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwMGorRhwzc0KoOL1_ZGhkIl8-DnCD2IpGTDnu_31u0kwTmWT2H2ZhvvDx1MOJ-zgyRx4f9KoIN1nSIkg10HCJ3jJBx8HYuJZMfF7CYeZCC9_XjePRcY3tsCAEMPTZwiQsbSoc-=w122-h92-k-no"
+  },
+  {
+    "id": 18,
+    "nama": "Seven Stones Coffee Shop",
+    "rating": 4.6,
+    "alamat": "Karang Wuni",
+    "latitude": -7.7602921,
+    "longitude": 110.379575,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyebwP47tDRc1eOKgBGD3LkyIVPubtGSd2gA5A_7mPV0fGZe0Ht9dnmKrg-VVSdJBBZx7saVKBwwfbJ9gocqnGaTfLv1DjC5Iha3-xB3_d8kjvq-NTkl0CbM6aoRGpgc8z1u9CH=w80-h142-k-no"
+  },
+  {
+    "id": 19,
+    "nama": "Zomia Co-Working Space",
+    "rating": 4.7,
+    "alamat": "Fakultas Kehutanan UGM, Pojok Timur-Selatan, Jl. Agro No.1",
+    "latitude": -7.7677069,
+    "longitude": 110.3809141,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx8tXo8Sh8LNHuP0UjGTEfjiuI7y1Glyu96mKWhSoLi9MMbZc_t3UU9B2xWKLdYjyT0NKQduIqfquW2BTaKeyu28FcQUbJScCY_H-9xLbEfyGPDxH3oElS31rjNjxyufHNhPO5l6g=w163-h92-k-no"
+  },
+  {
+    "id": 20,
+    "nama": "Sender Coffee // Mario's Personal Space",
+    "rating": 4.7,
+    "alamat": "Kocoran CT III Kaliurang St No.5 5",
+    "latitude": -7.7657374,
+    "longitude": 110.3786391,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz4XNGzO-vzoT8BNy8obmyQbL-SOnxRtDW7PGq7nDIJz-ufvL1M9hHVVbCm3-fk3IWGaQE46rBsC8J2nYHw9PT-0dK2Gikwtxjc6yOLUzRIlk8FEX5wFNA_O73naD0t7SCHYBnJVq4wz4g=w122-h92-k-no"
+  },
+  {
+    "id": 21,
+    "nama": "Tekoff Coffee and Tea",
+    "rating": 4.6,
+    "alamat": "·",
+    "latitude": -7.7800274,
+    "longitude": 110.3787585,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipPAb1XBII-GSVYXS5ACLXRRI3iwrjIN9gz1GAK3=w163-h92-k-no"
+  },
+  {
+    "id": 22,
+    "nama": "Shelterby.canopeecoffee",
+    "rating": 4.8,
+    "alamat": "Timur taman parkir FKH UGM), DIY, Jl. Agro",
+    "latitude": -7.7668005,
+    "longitude": 110.3837573,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwz35K0Pfu4ZHgc4NYBmeh0xHy_uTqiB2cVOCHF9AQzPP1ZjXCtB5t6RZ1YTKLWOOGvbHGAjLfgZ8KIux1NNjDhqLqiOAu3KT4WZBGEyax2luyoRgTao2efJ5Pp9d-jgS8YKbP8=w80-h142-k-no"
+  },
+  {
+    "id": 23,
+    "nama": "DIGILIB Cafe",
+    "rating": 4.6,
+    "alamat": "·",
+    "latitude": -7.7693006,
+    "longitude": 110.3794563,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw78f6hY9bvqmY-VNbdvIvNX_tu3vcndR17EV7cJWPztpNkJLI28oG1Csbkxg9GWTSsjppVus-Y7p1Op0z0STb2QjGulg7pI_PcCLh3LPxPVMyz3kSQUzTlEKROXnBVInexPGgVMg=w122-h92-k-no"
+  },
+  {
+    "id": 24,
+    "nama": "Kopi Lembah UGM",
+    "rating": 4.4,
+    "alamat": "Jl. Lembah UGM",
+    "latitude": -7.7704591,
+    "longitude": 110.3819965,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxAISKKW_i4n_QIjL-r8NKY4PSyuQqpoKW_Yk7Kv-7zMKaW-quso0rI4jjPEFrjYQn3zsAYTMcFTzV6pIwrnn7EvAK5tiHKEv6DD3V08kGDOFQ5DT_9VNDp884Ya5dgP8CgQSziSw=w92-h92-k-no"
+  },
+  {
+    "id": 25,
+    "nama": "Takom 1922 Cafe & Resto",
+    "rating": 4.7,
+    "alamat": "69PQ+GRV, Jl. Cempaka",
+    "latitude": -7.7639135,
+    "longitude": 110.3894264,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz_P_R8o0Nr0ku3dj0GPUZMkDzIK2WMf2EArk1u0qy6LLFg_fL-pkDaiTwxRtBw1yZE34_zNieopsmIBH4bj7EcJXOOXShVvDhrSjVWwD__XlbSYp1ER4DClw4cwauVh11X7aJkEA=w163-h92-k-no"
+  },
+  {
+    "id": 26,
+    "nama": "GoDown Coffee",
+    "rating": 4.9,
+    "alamat": "Jl. Lembah UGM",
+    "latitude": -7.7704524,
+    "longitude": 110.3832839,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwxhRvog-kvy4YKwRjxdkKO9Ht58yQRJNktHeK9C3UisA5Qq8q3h3iD6lR33bId6QHqmaX8vgPBdEYEqDAPRFMHVhu55VrOmyWjicxqnixzy157p7tmtFJlIJTsUX4k-y58Q_-SkMk-mB8k=w163-h92-k-no"
+  },
+  {
+    "id": 27,
+    "nama": "ARAH Coffee Pandawa",
+    "rating": 4.5,
+    "alamat": "Kaliurang St No.27",
+    "latitude": -7.7605444,
+    "longitude": 110.3809541,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzde-Af34bF8xgExXejs7JewYqE-3I6MLJ3LxBe5qdAIVaLdIIbx91-WSOhlWBILXwhZtoyeTKJtYb58a5WDze_CLLAlhm2p15yArT2qKPF9GyoZ48-mdx3Xk4LJi4WBUBLwAALcw=w92-h92-k-no"
+  },
+  {
+    "id": 28,
+    "nama": "Fore Coffee - Kaliurang",
+    "rating": 4.4,
+    "alamat": "Kaliurang St No.KM 5",
+    "latitude": -7.760256,
+    "longitude": 110.3810592,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw85_Mwy1GNBbHJYRuqzyXRm1LlkvZEaDO_v7e13rpotAt-2iQgkwR_wFGKT-Cv4G2CCTDx5nO-KGwk7VyGpJGQLytHNfWrXMAxOehikuULg4Ec8kESmvE2XSe31Sf8Vs0B_YPV=w122-h92-k-no"
+  },
+  {
+    "id": 29,
+    "nama": "COSAN - Jakal",
+    "rating": 4.5,
+    "alamat": "·",
+    "latitude": -7.761539,
+    "longitude": 110.380972,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxPUJ9PMweYJvca4rxsvlrnVkIUf_QNx1jWC1r6Iysw6D5JVhpi_Ql12cen_b3yHxpiMNBBM1l__WPu22VI0rFZ3oD2KMDrjj0eFX-NZiFQqMDNWxC3xm46ynEIYDh0vcFdxHt2lg=w122-h92-k-no"
+  },
+  {
+    "id": 30,
+    "nama": "Ekologi Desk & Coffee",
+    "rating": 4.5,
+    "alamat": "69PQ+6G2, Jalan Gambir 4, Karang Gayam CT VIII No.139",
+    "latitude": -7.7640217,
+    "longitude": 110.3889838,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwinWVdOxaorTapBkrod3P57N9pzqeI06Y3lZchEoF59WmJzJCk5QcRQ6w7t4EXOFHyac97vtVGU6HOAQApDzrbv-gTrpf0T1QvfNseACnEYE-A4GZZlmFOTg_WZl7yLTbk2W4_=w122-h92-k-no"
+  },
+  {
+    "id": 31,
+    "nama": "My Kopi-O!",
+    "rating": 4.6,
+    "alamat": "Jl. Candrakirana No.21",
+    "latitude": -7.7807057,
+    "longitude": 110.3766681,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzXkJERpMyswvJPNRiWPSRIyP0FKfATs3GiANoCgNYqKFgJuILYNsAhaAnMrxXHks4gKgOnlVqloEjFeL5rGsjk9fpH5VHr4eLpfZG1El37PCGud6Qv1qhqEad5w3uivn7HfbdniA=w122-h92-k-no"
+  },
+  {
+    "id": 32,
+    "nama": "Svarga Flora Coffee & Plants",
+    "rating": 4.4,
+    "alamat": "·",
+    "latitude": -7.7612473,
+    "longitude": 110.3940399,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzSqQQ0drHtjMn1elddvfFrSjt-KRMVrOV5BD_shtP-HbpLswr_1-IaTkruInbZfL_q9O0sMMNVoiBCa2hrPH1ApbcauW9nwtYq1_e7El-U8E5eiyU4LtCsUGCBXhbL2pa5lWvu-w=w163-h92-k-no"
+  },
+  {
+    "id": 33,
+    "nama": "Carney Co",
+    "rating": 4.5,
+    "alamat": "Jl. Garuni II",
+    "latitude": -7.7754467,
+    "longitude": 110.4099001,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzxGCFhd_AuI0YJ0SCTON2K5ujT7YaarwybgAOPzHK0R7oaFRyp820OyPr9OHPF3xKjcj3TEu9xnXxQndiymxUNGdzrZwcdP3O_7U88tzuHyR5S_ivGojdpeomwGqc3F8GuMRAh=w122-h92-k-no"
+  },
+  {
+    "id": 34,
+    "nama": "Opposite Fitness and Coffee",
+    "rating": 4.6,
+    "alamat": "Jln. Prof. Dr. Notonagoro Selatan, Jl. Lembah UGM",
+    "latitude": -7.7724484,
+    "longitude": 110.3819871,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipPF9RpBqvK3a2aXC6LicjmG8VSRvRS3fm7TsIeN=w122-h92-k-no"
+  },
+  {
+    "id": 35,
+    "nama": "28 Coffee Jakal",
+    "rating": 4.7,
+    "alamat": "Kaliurang St No.94",
+    "latitude": -7.7630047,
+    "longitude": 110.3796199,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxBSrv-ssgf9zbx002fiGs-buQGT_UAuf4H6dgC8rokUhw3YkwPmjlcIFVFS_fE2awWtc-Af4EdMe7fG6wzkdjUBjiAS8Ho62rZdhyIx1DplA9dAmbQP3CdUB3tZ4nlfza7fzog=w122-h92-k-no"
+  },
+  {
+    "id": 36,
+    "nama": "BRICafe X Couvee",
+    "rating": 4.5,
+    "alamat": "·",
+    "latitude": -7.780584,
+    "longitude": 110.3786765,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSym4Km0pDLmAySiWuwaV_SvXbC2Td1vEVvT8ESFp36PTIV4z1TKH47CWVZahvWK71qIPAjU1hGF34YgwBN0jby-WaDJ1JBQ6J9FOXdRFGnRrMdKMKGL0J-Olp8RA8hmQin9wkJA=w80-h106-k-no"
+  },
+  {
+    "id": 37,
+    "nama": "Bento Kopi Reserve Pogung",
+    "rating": 4.7,
+    "alamat": "Jl. Pandega Marta No.98",
+    "latitude": -7.7561541,
+    "longitude": 110.374019,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzYoie9bVSLKn5NEzE7Of-4WuI8a1cRcrJBEUR0zKTgUG5nTiHyKXpTeIQjj8WFxdVYSydJFaX5QW2-NPFI7xRARuy7TypTP6q0zdwswYzcoz7pPUw18YWs8Z2LG_cVq9km5XJE=w122-h92-k-no"
+  },
+  {
+    "id": 38,
+    "nama": "Podocarpus by Moikai",
+    "rating": 4.9,
+    "alamat": "Jalan Podocarpus",
+    "latitude": -7.775326,
+    "longitude": 110.377886,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwlBCRmT_Q4hG8uhYmYHL-9U1kmiuF3lbca-RNC91nKrQaZ8fsGdFfTjfAf9UyXq7_vssVq1FKg7bZeBrjeqqWKnuhRRfvm9698DQhKKnu7RurozZljqPypaz9F7J70AKSjgXGiOw=w122-h92-k-no"
+  },
+  {
+    "id": 39,
+    "nama": "Silol Kopi & Eatery",
+    "rating": 4.4,
+    "alamat": "Jl. Suroto",
+    "latitude": -7.7845616,
+    "longitude": 110.3744526,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy_hwnNVkn5o7lNaSZAQ3RKmJbvkNE9er7Mc85G1sqOncCD0y8X14TZIB523gCUpkDS2W6SYTbTPocBYDVReSJDbnFanMwo5iDCPVK1qRrRZIdzJAWPpHI7323oGFO2SLjBABc5=w122-h92-k-no"
+  },
+  {
+    "id": 40,
+    "nama": "Blok House",
+    "rating": 4.9,
+    "alamat": "69GG+45X GIK UGM, Jl. Persatuan",
+    "latitude": -7.774645,
+    "longitude": 110.3754982,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwVysIMZKDEID25qm1VUg55pk0hWY2H40eBC0WKyOUILmk-_IYIQzbdo-6q1v71eVeExws17rNq5ESZyBejE9dtsX9-meBLv-HZIZiJVVfkgbVmXYO6G_v2PN-SpRPIda8dg9AhI9HGJ90j=w80-h106-k-no"
+  },
+  {
+    "id": 41,
+    "nama": "KLA Co-Working Space",
+    "rating": 5.0,
+    "alamat": "Jl. Prof. Dr. Ir. Herman Johannes Jl. Sagan No.73",
+    "latitude": -7.7773839,
+    "longitude": 110.3797556,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipPBJXLJttXwChCCzB_OerFnWK0hSVkga-mTjY1W=w122-h92-k-no"
+  },
+  {
+    "id": 42,
+    "nama": "NOX Coffee Boutique",
+    "rating": 4.5,
+    "alamat": "·",
+    "latitude": -7.7579066,
+    "longitude": 110.3816834,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzAnQvZ-KcNmvI-gWPjgj6Qf3bEh55PXC33Z1Njmtz-0HEwwOJn72AHj9fS6Z2SLFRnazkwp_uRVoQV9U9k6C2ni6gmvHoK9lNw3JabyFXVfKcHPzDKd1MtiMdT208Nj_BuvhyCxQ=w155-h92-k-no"
+  },
+  {
+    "id": 43,
+    "nama": "74Coffee.ID",
+    "rating": 4.6,
+    "alamat": "Jl. Agro No.11",
+    "latitude": -7.7660167,
+    "longitude": 110.3798224,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipNfSFEL2bIJS1DgfUZ1XAxDvpa4jdaoUJ9hrg6V=w122-h92-k-no"
+  },
+  {
+    "id": 44,
+    "nama": "Kopi Sahaja Jalan Kaliurang UGM",
+    "rating": 4.8,
+    "alamat": "Jl. Kaliurang No.KM 4, RW.5",
+    "latitude": -7.7641122,
+    "longitude": 110.379182,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx20lBhalXLlMKR9zjGC1uaEpDwN6u4rXM9iUNGXviM8YuI2S8zFezuZiTOnvKhMKeAf_LbfQz_ul5vVfaItCKPTWMT--tDERtwm9388-kbv3usM4SOSybyH3sb1g3SxnNZ9hXFP2IY-aPN=w80-h106-k-no"
+  },
+  {
+    "id": 45,
+    "nama": "505 Headquarters | Coffee & Escape",
+    "rating": 5.0,
+    "alamat": "Jln. Prof. Dr. Notonagoro Selatan, Jl. Lembah UGM",
+    "latitude": -7.7726004,
+    "longitude": 110.381986,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipPL0Ar1yGvOzRA40UIkxfDTf30MUk8Eq8LdHAZl=w80-h106-k-no"
+  },
+  {
+    "id": 46,
+    "nama": "Magistra Coffee FIB",
+    "rating": 4.7,
+    "alamat": "·",
+    "latitude": -7.7721958,
+    "longitude": 110.3784136,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipOicFOS8DumKzhb_wIRQ942CAwlPNx5tBMgWnYo=w80-h120-k-no"
+  },
+  {
+    "id": 47,
+    "nama": "Cuba.space",
+    "rating": 4.9,
+    "alamat": "Jl. Kahar Muzakir No.126Terban",
+    "latitude": -7.7817209,
+    "longitude": 110.3739376,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwbJ-0thHnRkTacYhl4eYs_Z6Jz_m6azdgPHyRdZOi3m4SQvdnvT4xUYf5WNDi6Sz3QKkR1SLokrNSyOYeTgO3j_WY5DDh1jSWU7a6mqObjKZHylqW_Q9gvzdldvdcWHqaftNtiMg=w80-h106-k-no"
+  },
+  {
+    "id": 48,
+    "nama": "Hen's Coffee",
+    "rating": 4.4,
+    "alamat": "·",
+    "latitude": -7.7677625,
+    "longitude": 110.3872969,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzts4C2CN7gcTzN1WjeWtD46Jph2rqkgyfZdTjG3hMtS1GzxOqHyFn1wHvwN8OUbM_HOIXWx-wrQis8PM8DhGqKx8V_-AGxhEnjJLTyJaJRsX5YMj51sDsW4gNho3Zr6EBeBxBa=w80-h142-k-no"
+  },
+  {
+    "id": 49,
+    "nama": "SUSUKA",
+    "rating": 4.8,
+    "alamat": "69GM+X36, Jl. Lembah UGM Jl. Kuningan",
+    "latitude": -7.7746051,
+    "longitude": 110.3822018,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy9N1q6NMX_kizUHNPLe2WYfMsgtFWzL0clx8bda56OClh2HzqCGQijdJE6Glm8pdzgUAx_GpyMWaw94yisgBMwMvVQtH6r4G1zzWlFg1InNNdyR9P6zystro833qYeUXH9AbWrMZdzcVTQ=w80-h142-k-no"
+  },
+  {
+    "id": 50,
+    "nama": "BREWVATA COFFEE",
+    "rating": 5.0,
+    "alamat": "jln kaliurang km 4,5, Gg. Gayamsari I CT II E7",
+    "latitude": -7.7638732,
+    "longitude": 110.3822481,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipNmXb9F4HvdHARH0t1zjU2Gl_MWXYJxtHv5hBKs=w122-h92-k-no"
+  },
+  {
+    "id": 51,
+    "nama": "Simetri Coffee Roaster",
+    "rating": 4.6,
+    "alamat": "Jl. Sabirin No.20",
+    "latitude": -7.784344,
+    "longitude": 110.3740934,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipMg4tKYGcobu0Fo28opfR02AxH-QVTBrGNmno__=w122-h92-k-no"
+  },
+  {
+    "id": 52,
+    "nama": "Nusantara Reserve",
+    "rating": 4.8,
+    "alamat": "·",
+    "latitude": -7.7689258,
+    "longitude": 110.3746203,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyM6FrwaAlzvlgrFS8CjhK16cZmEnBCxDlPG-HT6qxZaON0wCUsvaIS5tzKBnttf4z2lE85OJXBVyenEs4iEKPT-4WsZDuy14KMlLSDVaCZxWtQjuHHS13ngA_C3MNKAJo-YgjB-4r3rlM=w163-h92-k-no"
+  },
+  {
+    "id": 53,
+    "nama": "Pancong Jaksel Lembah UGM",
+    "rating": 4.7,
+    "alamat": "Jl. Lembah UGM No.1",
+    "latitude": -7.770237,
+    "longitude": 110.383408,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxoHesBCmCDATJuaLDj9Mk_Naj2FabSU_GmTcGn054PF2SrutUsqyzLcFhk5jZPrBYXdutRz1nTPwno3TQkR2UZQNYK_nRjvGbRIpZ-MYcR1C-Tj8qzg-CdXVVagIIIljrqJj8=w80-h106-k-no"
+  },
+  {
+    "id": 54,
+    "nama": "Daheim - Cafe & Coworking Space Jogja",
+    "rating": 4.8,
+    "alamat": "Jl. Pandega Marta No.39",
+    "latitude": -7.7551981,
+    "longitude": 110.3786098,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy5d9eqGUKa6kyp39vqgjIycOzUm9NJPWbhS6OxxPMPUh-PyNviMIntGUMlvmJkHvOesET1n-UKZn8yhO4AiR6YKfY-jcFMPbq18CEXVicpKLjatrgR945_Vz5ngPX0iebr_wET=w138-h92-k-no"
+  },
+  {
+    "id": 55,
+    "nama": "Niwa Coffee & Eatery",
+    "rating": 4.8,
+    "alamat": "Jl. Gambir Karangasem Baru",
+    "latitude": -7.7644527,
+    "longitude": 110.3888649,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxYuZP36u0J4iaGx5F6ZnAWMkvL8f1pIJHGt2VHt-Jq7enp1IuZ383bTH6CLfS7f_3JSqnF1BniDnLCWZtE6GX7CCItorGeqniJPMYfnSaMyK5nj-avl8WnkA9fw9XDMrX4sIAQ=w163-h92-k-no"
+  },
+  {
+    "id": 56,
+    "nama": "Aurorae Coffee",
+    "rating": 4.8,
+    "alamat": "Gg. Gayamsari II No.52Kocoran",
+    "latitude": -7.7656729,
+    "longitude": 110.3816577,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwaLN6uVAP9fGaGo7pYjs5a2by1PhPgYCoF6xmnLTVAxwQC_wU0KQuDykjg1CCfhj5RSWiqfFSJX58BHlGkzw8Xsppuf8WheiMyqKh3b3ZFX8jRKCEkKrocALOmNhqWTofPToXT=w163-h92-k-no"
+  },
+  {
+    "id": 57,
+    "nama": "Kopi Sembilan",
+    "rating": 4.6,
+    "alamat": "Jl. Pogung Kidul",
+    "latitude": -7.7619193,
+    "longitude": 110.3753253,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw9cLeGDwofDCt-Fbz3zEWLzWDry6-FWa2IIHq2RRV5X2KydIXCQ1lt4lb7ITV_g1xWGe5EGz3DWDqO5oAB55_ds9cRlixiic_ceRrHBWT1cr8ALB9qk27KiCW9etmgTzb6HXIetw=w92-h92-k-no"
+  },
+  {
+    "id": 58,
+    "nama": "SPG Artisan Coffee",
+    "rating": 4.5,
+    "alamat": "69GM+QVQ MMUGM Hotel, Jl. Karangmalang",
+    "latitude": -7.7730337,
+    "longitude": 110.3847312,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzI9NWiL3dDMAEThDycPJk6MtOuYnxvtKMxe1iwwWlQcHIkvuPruNvoxmFDVtxxsqz3T71LH91tVz-BcprCG3SepQyBJfNr_wD90AB0ubb4TdACohnBZ6KpYCF4y-NyNf3xoUMj=w80-h106-k-no"
+  },
+  {
+    "id": 59,
+    "nama": "kopak(kopi ngapak)",
+    "rating": 5.0,
+    "alamat": "bawah Jl. Jemb. Baru UGM",
+    "latitude": -7.7622,
+    "longitude": 110.3709734,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipPZPXpF5n137TrpkJTKE26pOdN51C3n8cknV9c7=w80-h106-k-no"
+  },
+  {
+    "id": 60,
+    "nama": "Antologi Collaboractive Space",
+    "rating": 4.5,
+    "alamat": "Tawangsari CT II Gg. Gayamsari II No.9C",
+    "latitude": -7.7642123,
+    "longitude": 110.3830378,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyCSE_dCLqTPyjFDqBtEwzeXNLKtTYjXETx_VYsQX21IBj-1PqxVzSGf320WnhnKPSaABGMXxM7H6yug29qWk03J79FpeaCrb-bS46vZ5ZGfu6149_V_xMXFFrcF2ElLYrqfAs=w122-h92-k-no"
+  },
+  {
+    "id": 61,
+    "nama": "Prove Coffee Bar",
+    "rating": 5.0,
+    "alamat": "Jl. Sendowo No.69 C1 Blok D, RT.005/RW.055",
+    "latitude": -7.7715825,
+    "longitude": 110.3722664,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipPy4oMhG0gJU36HBJtT3mOP-Uk_e_6NP8RptHiJ=w80-h106-k-no"
+  },
+  {
+    "id": 62,
+    "nama": "Bento Kopi Klebengan",
+    "rating": 4.6,
+    "alamat": "·",
+    "latitude": -7.7643654,
+    "longitude": 110.3875858,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwame2bNyl9xOMDjqtmCaO-Hf9ac77KDWTzw4mZXu-RdwcoF1bj6oQccXWTDPkEYs1580Z7EPJH8hGsR8y8uSWfCUFG9WEgjG6KIyFHOiAxvZNMtIP-PUlihfFmiuo9izR05hakE3MI5YVL=w80-h106-k-no"
+  },
+  {
+    "id": 63,
+    "nama": "Purrfect Coffee and Gelato",
+    "rating": 4.9,
+    "alamat": "Jl. Persatuan",
+    "latitude": -7.775507,
+    "longitude": 110.3759687,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwRlmwaCAl1inLi-vU0CWEYdal4G4J6v8lxTbyGlSNDEHL74PH2zmfudynDsfdlgmHeQyD8RwMIObhf3djLAzIl3zDCJ4QJzDW7YuTdOPc7OS_4aV5oIFCNn79fzo_y-8afsXVdTdY6SxM=w122-h92-k-no"
+  },
+  {
+    "id": 64,
+    "nama": "Cold 'N Brew Jakal",
+    "rating": 4.1,
+    "alamat": "Kaliurang St No.23 A, RW.2",
+    "latitude": -7.7560353,
+    "longitude": 110.3829017,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxfB1-6GF5i1CL2uHfSxPKLyb46tMFfJt9K-_fsu_9i86nLyJTAOgZULv9QIF103AO4-Yb6Plnm8dkoJF-qKyMAmUm29zRS4H9kNBdNW0sQ1qH2VFxyb9Y2JHbtEaYJKz3t5HY=w122-h92-k-no"
+  },
+  {
+    "id": 65,
+    "nama": "Relasi Co-Working Space",
+    "rating": 4.5,
+    "alamat": "69RG+JJ9, Jl. Pogung Baru Blk. E No.34",
+    "latitude": -7.7590814,
+    "longitude": 110.3765219,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwBDD3YcatlQWQhbzd7Sw2oYuTL4ECDQmt23INTh4VGpC2JrcjzqJXFsGuW7UPrzbKU0866zoTFVqNccmu3ObduGbsWM8YLAL5fBCzy76uvwrUrSaRD2YjpzQQRsCDSX-I9HC3r=w163-h92-k-no"
+  },
+  {
+    "id": 66,
+    "nama": "Rumah Budhe Coffee",
+    "rating": 4.6,
+    "alamat": "Kel, Karang Asem Baru Jl. Gambir CT X No. 02, RT.007/RW.002",
+    "latitude": -7.7679634,
+    "longitude": 110.3878067,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxpc1foKLD2OiL5uAjB3A8L9H7YWEeW_wvi3Bk-se0r_8-9DkNyiAcslW1i2kQrKb586dms-FkbGvxD1ZCKY4lIpNtQiaJ35DyiqXJqV69EoellW4JTcMIBNoPKIiqf0LSYe6bq=w122-h92-k-no"
+  },
+  {
+    "id": 67,
+    "nama": "KOPSET - Bukan Kopi Saset",
+    "rating": 4.8,
+    "alamat": "Jl. Colombo No.1",
+    "latitude": -7.7773116,
+    "longitude": 110.3846194,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipO1Qqq5wDnyklOQOCS1JMPQVCbthsdlhgNHv7Cv=w122-h92-k-no"
+  },
+  {
+    "id": 68,
+    "nama": "Roadstead Cafe",
+    "rating": 4.7,
+    "alamat": "Jl. Colombo No.7",
+    "latitude": -7.776678,
+    "longitude": 110.3823844,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw1sAH5U71Qtd7B0Ft-4O0GXK4mHBBazyGmOp5hSWl40-GhvBSMDCmNiL95cCXLWDZVMTqDcoKGFVV1DJd-KRa6baQBStq1s01pKtNdFtwL9xTdG2MI4wuK7VcwjxpD9ahQCDIWKA=w122-h92-k-no"
+  },
+  {
+    "id": 69,
+    "nama": "Little Tiam | Deresan",
+    "rating": 4.9,
+    "alamat": "Jl. Gambir No.9A",
+    "latitude": -7.7656569,
+    "longitude": 110.3885939,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwo-WL8SFy-qosEuE0yunpFg9ltrte_lT_PP1ju5q0ChtW-HxpMkps2HKgZecgHzcKcLood8nEOOGWzFRA0hqFZ8ammSrvzhwbb8mcH_V8n5_woH7ZDd3VT9CA4Si-IFz0XguFe50fG8aQ=w80-h106-k-no"
+  },
+  {
+    "id": 70,
+    "nama": "Internet Learning Cafe - Jakal",
+    "rating": 4.5,
+    "alamat": "·",
+    "latitude": -7.7600663,
+    "longitude": 110.3810964,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw_Lgd-246CiU6JSu69uvvhKzMN4xUeBnHmM16BrTqBEJ7nFyGuR1Xau726BucdMSZV5DYepy4EojSt6u0_Pf0CBMMEwsn2su1yQCiYWTyYL5rl4awLYNpA8IMz2fcMPP1pXg7o=w122-h92-k-no"
+  },
+  {
+    "id": 71,
+    "nama": "EB Café",
+    "rating": 4.2,
+    "alamat": "69HH+HQ8, Pertamina Tower, Fakultas Ekonomika dan Bisnis, Humaniora, Bulaksumur,, Jl. Sosio Yustisia",
+    "latitude": -7.771099,
+    "longitude": 110.3794617,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyshkgI47O8kEQCnB5jn46tp8vz5dE7wznrd3mbURgSZ641ZcG-OHAtB7QtFZzSg_g3jXDNNCN9vsHNG9y_xW8C4zrW6qmpKxmsYqxFOtOP0zipQS5BCh_5RLqINZvTVmfODuX2=w80-h142-k-no"
+  },
+  {
+    "id": 72,
+    "nama": "acaraki GAMA",
+    "rating": 4.9,
+    "alamat": "Jalan Sekip Utara, Senolowo, Sinduadi, Kec. Mlati, Kabupaten Sleman, Fakultas Farmasi Universitas Gadjah Mada",
+    "latitude": -7.7691797,
+    "longitude": 110.3763083,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz45gYEVbdpJjJWBQol_fLuZm4UIwsTNxwQkY-zc60O6lGt3-IoAHr8091jW57xwKgQCyheuQwUsarG2Ho5T9ryoCVv9TIUQy-eJok4tHkPcBFHMcCswgnPsmFiytShgQ3wW8jIOw=w122-h92-k-no"
+  },
+  {
+    "id": 73,
+    "nama": "Caffe Bioshub UGM",
+    "rating": 5.0,
+    "alamat": "Jl. Teknika Sel. No.39",
+    "latitude": -7.7653434,
+    "longitude": 110.3767548,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzyBnznumsR1j7mCKbOo_25PhP13uqMULGYDO9PlmWTOyGqitoenhI4oOuQrS7VpKcimFGzw5Ef_llgXytW9ZUnyrBgYCnxwJsLPMkU1sMqmyBGLLOmHP-fiLdFA_BWwDE7MArLUQ=w122-h92-k-no"
+  },
+  {
+    "id": 74,
+    "nama": "Bincang Kopi",
+    "rating": 4.7,
+    "alamat": "Jl. Cik Di Tiro No.36",
+    "latitude": -7.7781199,
+    "longitude": 110.376007,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyHbBgvIMmJ8sGY8aB0yOhsYOQOJy0QR7qpX3yE7OlmD8NT5UyEPa5bZjfJmR6MBb0faKGk_lI4x9ten5FOrYr1x18YrdDbhgDwJjSHYcQ2bFd8Lb9thwXoAWECISQfa-cVoU0=w163-h92-k-no"
+  },
+  {
+    "id": 75,
+    "nama": "UHT (Ultra High Temptation) Cafe",
+    "rating": 4.2,
+    "alamat": "·",
+    "latitude": -7.7828806,
+    "longitude": 110.3793271,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzrC-px1w8bojWpCGQ8Gd1KQAWOQRoubeIy--1MR9YCl4v4pXGHCYeH41xezPOoqd77YgCAdm5TlnjfseBQ3S-jpZkf1wBXsto4yMobNzlmcBHWqouKjma9YVAKO88InbZaSxlETg=w122-h92-k-no"
+  },
+  {
+    "id": 76,
+    "nama": "Angkringan Dhe Yanto",
+    "rating": 4.6,
+    "alamat": "Jl. Lembah UGM",
+    "latitude": -7.7718873,
+    "longitude": 110.3832848,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipNl_33eJYQaGZygJsetCmOvumhyEsLqtZAt27Cy=w138-h92-k-no"
+  },
+  {
+    "id": 77,
+    "nama": "Angkringan Srawung UGM",
+    "rating": 5.0,
+    "alamat": "Kantin Fakultas Farmasi UGM",
+    "latitude": -7.7693999,
+    "longitude": 110.3766534,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipNBHXY-NE-huM4Xwz-pM1FsShw3YrccgK5KtuZI=w83-h92-k-no"
+  },
+  {
+    "id": 78,
+    "nama": "Jaga tempo koffie",
+    "rating": 4.8,
+    "alamat": "Jl. Gambir No.1",
+    "latitude": -7.7670233,
+    "longitude": 110.3861098,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxHxSfpq23gwIA0YL8l-LoCUkcy9U-jHsDWAhNBrwiSdW9mck4SjZzdjdhXouIAurpURf5zqj0dNMrJxg-YdWDmecr1UL9KmZAyiTcIoxzNNpl_WojOPsB78ZqL9OOnqKxD4x9w=w163-h92-k-no"
+  },
+  {
+    "id": 79,
+    "nama": "Creative Hub FISIPOL",
+    "rating": 4.7,
+    "alamat": "69JH+8R2",
+    "latitude": -7.7692291,
+    "longitude": 110.3795213,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx8yf-_cgS0-07C794LJlHWetjIC6I4L6cBReYWNboPYGkpSWRpA0mLeYLJnNBtmmLcwumdeVljPXUNhDpmaoiDXbqp-mTnilkz0bYcyJJmFakLkPb-n5xHZBMMKkHWfPDGmG0e=w163-h92-k-no"
+  },
+  {
+    "id": 80,
+    "nama": "Kopi Sarang Walet",
+    "rating": 5.0,
+    "alamat": "Gg. Narodo",
+    "latitude": -7.7611538,
+    "longitude": 110.3888309,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSz6CvvBTcrjuzAiikLH4WZ6oZwkexX-P-q_q2KFj7A0FsGQhUblTuAOQj0ax3S9ZgJ-c026CkRbZiyWiUGnk8lCaWwrMZ1Abk6nTlkbBeBNt1eg2O27ed4gJlyWvtkNTkfWJIhg=w92-h92-k-no"
+  },
+  {
+    "id": 81,
+    "nama": "SUNA - Susu Sarjana UGM",
+    "rating": 4.7,
+    "alamat": "Jalan Pandega Marta, Sinduadi, Mlati",
+    "latitude": -7.7566392,
+    "longitude": 110.3721724,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxa0103TwCf072IhQuBsHnIUdZE-bSbzZrDP1haVKxGUBm_jX1xaDy-wSzoncdLeO4ZbAQ5EpiH2XtODvTTGyVnP22fpQpz_EQ9PP4I9PrFxnVC_l3YQsfaDerj0ntQP3yg1zu3iQ=w80-h106-k-no"
+  },
+  {
+    "id": 82,
+    "nama": "Es Teler TREAT Jakal",
+    "rating": 4.6,
+    "alamat": "·",
+    "latitude": -7.7647677,
+    "longitude": 110.3791502,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy_dJCfKWNhyAii0xktMW4XzuZQPCJxL5M_UBdHlUJnOV1lUALbERpNHrgmgMAp6kNX_s401WEZaydN9hy6RIAHnB0r2otfRUTmT4PD7dBbgCkeJs4ZvGFm-FQ-sc4WnCJfD6dyeg=w163-h92-k-no"
+  },
+  {
+    "id": 83,
+    "nama": "BNI Food Park UGM",
+    "rating": 4.6,
+    "alamat": "69HJ+WR5",
+    "latitude": -7.7702303,
+    "longitude": 110.3821016,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzAqIOHaqBVvjc1uF3_FrosXS7MRcq2z8fwZqUxKhIhTkva0hWg6emSvcKRg6TxW6IWv9YK-kGT9wxz5uKokCShyfCBxBZdy8qDouQ1-Lmuf249o2HJBDLlJAHzTzBfPSCx1NP6=w122-h92-k-no"
+  },
+  {
+    "id": 84,
+    "nama": "Moikai Coffee CDT",
+    "rating": 5.0,
+    "alamat": "Jl. Cik Di Tiro No.27",
+    "latitude": -7.7777986,
+    "longitude": 110.3756152,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx-vdrdh3ZrRZ0Hbnd4-3IXAJHX1AAdjRXilMC9G1X2AVJCFYFjCDTzq3HeobHee9H-OTPB8XDOtRdSA0IK5p-kmX5xu-itNodNkfgWlwZlE_VyvQbegZBS0rukMLL08JG9vePSg31IdMI=w80-h106-k-no"
+  },
+  {
+    "id": 85,
+    "nama": "Bho Dimsum UGM",
+    "rating": 4.7,
+    "alamat": "Jl. Persatuan",
+    "latitude": -7.7678257,
+    "longitude": 110.377708,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy1AJfpBp-8NzyO26quicQ8KMX4oN6YXG1H1u43DmR-RGah2DJ3oZgRbS-_X5bvbtZd8Xx9cE4C5JmJSXJ8T2uSExBN0oX6UvKxCaqGG-Ch4aVWgJeTx9D6R7XAJQRmFjkK36yL=w163-h92-k-no"
+  },
+  {
+    "id": 86,
+    "nama": "Internet Learning Cafe - Ambarukmo",
+    "rating": 4.6,
+    "alamat": "Jl. Laksda Adisucipto No.26",
+    "latitude": -7.7835331,
+    "longitude": 110.3993802,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxaY7DXFHRTXw7PsjyYyjjvS0TVuM9z332pl9gIFwUiCtliwqcH_vEwIJdo-spUQlNgs2SMNML_gDTeAmlALmeEqOBh9_g_Cq-q8izuiXU1M7CQuyoaitBZPIB_6Gm37qEf5V0=w204-h92-k-no"
+  },
+  {
+    "id": 87,
+    "nama": "Kopi Calf To Go Jakal",
+    "rating": 4.5,
+    "alamat": "Kaliurang St No.Km. 5",
+    "latitude": -7.7601988,
+    "longitude": 110.38079,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwmd8zu4V6dpzzCpouoF7CWZ-_MHJAl5L6H272H5HCRpKDzi4DVgTBpiNoRQuSXtkeLNi9ixNZFV11CeyZi4ObWUmuRqbDfdI9vckrPBau6EBMsX6WvWMdnvXBoNKnjdtESsuKY_p0jcEM=w122-h92-k-no"
+  },
+  {
+    "id": 88,
+    "nama": "Luke & Friends Coffee",
+    "rating": 4.8,
+    "alamat": "Gg. Pangkur. 2, Jl. Kaliurang No.KM. 5",
+    "latitude": -7.7609343,
+    "longitude": 110.3799679,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxwfl2bFWQ-3g1kolAvPpgvmM6657RZ5cavQ7J7YWGv6zhu1-9UqdBrSFFlp_NeUlMs7CW7EMhpVy-ifrgNN0zFpwmffs_pGeLR1tC5XM-abxQA8ibDJ1zljvODafw6kjNkVlos=w80-h142-k-no"
+  },
+  {
+    "id": 89,
+    "nama": "Roti Bakar Kehutanan UGM",
+    "rating": 4.7,
+    "alamat": "·",
+    "latitude": -7.7665805,
+    "longitude": 110.3815306,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy1p--xcn018aLsSxHx_3aRMqHIWGJjJOoNeXc2VL9RilkYbMh77Z8IWzOtu6ZCb6rIOqzmlvzE9ZB2DMlxkCM4hl_DW-h4RKO_RcttysVWogrXWu-tHaiqtHx9lZ75GtNX0w2Bug=w122-h92-k-no"
+  },
+  {
+    "id": 90,
+    "nama": "House Of 418",
+    "rating": 4.6,
+    "alamat": "Jl. Tantular No.418",
+    "latitude": -7.7710144,
+    "longitude": 110.3950405,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyn68vcYb27PKHb4oUQa-vLcUY0NtjXyEizG2WxC8gPcl4TjbpkRtzhphSJ6p1nmSUksKbnGnP-sK8Zd-KdsfJyYcakyP93zO7QWGlei2j-EFoAS1PhrwiTBVhIGH39eBVHp1YfjA=w163-h92-k-no"
+  },
+  {
+    "id": 91,
+    "nama": "Parsley Lite Bakery & Resto - FKG UGM",
+    "rating": 4.9,
+    "alamat": "Jl. Bhinneka Tunggal Ika",
+    "latitude": -7.7707758,
+    "longitude": 110.3740865,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSybp4INEWFOMMzRvdAH_6XCze7PdQgeXaz9QUVngxJ1mc-wZHrUf4plPDCvBPMkliFwpaJ69oZS0hJNoHVc5s_bIzdJW60A0e7t5dPQhd_TV_XERz3b0m6qXgtGjDJ-4XnkknfghQ=w80-h106-k-no"
+  },
+  {
+    "id": 92,
+    "nama": "Fremilt-O - UGM",
+    "rating": 3.9,
+    "alamat": "Jl. Gambir No.1-2",
+    "latitude": -7.7678453,
+    "longitude": 110.3873803,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzJ7RI0RI9Riy5KJFj36AikiLAcy5urHHMP_QUwuDKvAqEC_WXoOHfR4cAG7TTCDuFRC2voAjxJ0bqwlufT6YomtdoCb3RX_y8H_GUJ7srN4fEZDSqPHVDI2LCIxZHJi4jxw6DC_w=w122-h92-k-no"
+  },
+  {
+    "id": 93,
+    "nama": "My Cafe Hotel near UGM Yogyakarta RedPartner",
+    "rating": 3.8,
+    "alamat": "Jl. Ring Road Utara",
+    "latitude": -7.7517472,
+    "longitude": 110.3771275,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipNhG-t3VQ8510NvyLnxJK1BfTAnHMItJC5IMHWL=w138-h92-k-no"
+  },
+  {
+    "id": 94,
+    "nama": "Bento Cafe Nologaten",
+    "rating": 4.3,
+    "alamat": "Jl. Nologaten, RT.04/RW.01",
+    "latitude": -7.7785646,
+    "longitude": 110.3997916,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzqTJGDJByK_OcuDaRfLmHY_ondAeoNeGoZz14a7CKi1m4GySoROtC6nol4i3_gH0J0C6h2dsaJZ4taR2Gace2-oOP4WuV6pZW5AT8actXJ_o1GosVqr5MINCgNXnCwDTjnLiTP=w199-h92-k-no"
+  },
+  {
+    "id": 95,
+    "nama": "Dapur Mpok Duren UGM",
+    "rating": 4.9,
+    "alamat": "Jl. Agro Jl. Karang Asem No.11Kocoran",
+    "latitude": -7.7658194,
+    "longitude": 110.3789748,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxF4p5gj3BoWilp5qpW-TFrtZGAN3Rr_PTX8-kD3aCn3dL_gv6zXM_Gh6NEk54eDJRPkqHmAZBc_pbuX9egl_R1cNgpXl6eFqoSRwQXeP2D6_T0etmgSJuDq9rlRmsrq08-kYNd=w80-h106-k-no"
+  },
+  {
+    "id": 96,
+    "nama": "Angsana Coffee Shop",
+    "rating": 3.0,
+    "alamat": "Food Park UGM, Jl. Bhinneka Tunggal Ika",
+    "latitude": -7.770501,
+    "longitude": 110.382317,
+    "foto": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8r12pwkuEewXkDRgov5M2w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=97.48461&pitch=0&thumbfov=100"
+  },
+  {
+    "id": 97,
+    "nama": "UC Resto",
+    "rating": 4.4,
+    "alamat": "Quest House",
+    "latitude": -7.7724687,
+    "longitude": 110.3776944,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyuOZTG8OZu_tRmXXpQxEjVpUHd6a6n6O6Rk8zC8rk4i814V9GOJDlK1grchr3e0x7RLPHAwtO7ZJhizhPh621kEzaaJvdELUSQWblSxoHEHXQm0IutP2rKhzlE-oXMOfNsZ9k2mg=w122-h92-k-no"
+  },
+  {
+    "id": 98,
+    "nama": "D'Crepes GIK UGM",
+    "rating": 4.7,
+    "alamat": "Jl. Pancasila",
+    "latitude": -7.7748837,
+    "longitude": 110.3757733,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyJFL5NLnTN7zfT9yH43CNkmSH3_5JskDhRDnKwgkyU5XmNnoPd1l52mx-1YGATf7lB3inU7yt-kRVZnhEkTYeUPUoGq71QIGmu4vG2uUa8iCmMu2VA5ukM0gAFY9WuvYB_BG7q=w122-h92-k-no"
+  },
+  {
+    "id": 99,
+    "nama": "MatchaTi - Pogung",
+    "rating": 4.6,
+    "alamat": "Jl. Pogung Kidul",
+    "latitude": -7.7625302,
+    "longitude": 110.3748021,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwbi5duS5K1ATf4K7vRtb3mbpp5VBQ493eakYy4eTj4SGTrgNdUJ5yP48qIfQ56NL7hRSno8yFmgrEn1mR5nUxRiz2-hxtfStghgblZrTzatuTmw_AAyuoruN5aWguZ-iHQBYzclZl9qY7V=w122-h92-k-no"
+  },
+  {
+    "id": 100,
+    "nama": "Angkringan Bunderan UGM Pak Peyek",
+    "rating": 3.8,
+    "alamat": "Universitas Gadjah Mada, Flat E, Sekip, Komplek 1Blimbing Sari",
+    "latitude": -7.7753089,
+    "longitude": 110.3725807,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzceIWRxJHX0-wSYWJ7StW8z7dEvA34oCxS7ll5moyrCujQ7s8366pjQYClWRUYLl95CHh9VbXZFbjSF6XcDdtFFhBbnIF_f4UvQeShRNKFWKdWa5pMCPdLS_5UBFJo4Uk_Gj-YfQ=w80-h106-k-no"
+  },
+  {
+    "id": 101,
+    "nama": "Angkringan Gendut Depan GOR UNY",
+    "rating": 4.8,
+    "alamat": "Jl. Colombo No.48",
+    "latitude": -7.7771453,
+    "longitude": 110.3840928,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxwXokW5krqlc6RYmuy_4XayBU4vQ9AnYyG14sN6CuWafm0DgjFMZUfWH5fj6cqCpvTGbYbaQ0QEob4qHJ8GiHbcfL-UWbr1iykKX2qWBbdJgNdsFqBPc6YpMz6tezhkj8trODccVTIJ2ld=w80-h164-k-no"
+  },
+  {
+    "id": 102,
+    "nama": "Waroeng 90’s",
+    "rating": 5.0,
+    "alamat": "69VG+3RG",
+    "latitude": -7.7623182,
+    "longitude": 110.3704971,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipP3v_-nnNyF3rOSFd9BAVNw1g3rZJgUK5TqsnVR=w122-h92-k-no"
+  },
+  {
+    "id": 103,
+    "nama": "RM Sabana Murah UGM",
+    "rating": 4.3,
+    "alamat": "·",
+    "latitude": -7.7634481,
+    "longitude": 110.3850212,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw7Q5AMFshrGGF0BoLulgcXO05KhpYsA2Z7nu94iSY5pK_hK7ICYLvh69X-LVycGPsFKCQt0w0X_XMi5CEXj885rT-M2luZMwmchgHpUyCLsneR64KDf-hgKVqbzsqX6o1xstGBLQ=w163-h92-k-no"
+  },
+  {
+    "id": 104,
+    "nama": "Sugohi Kafe Gor Klebengan",
+    "rating": 4.5,
+    "alamat": "Jl. Manggis No.5",
+    "latitude": -7.7546656,
+    "longitude": 110.4057543,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy919hYuWV3I4EkneKg_Yy3xLZKZCwST6IlC-FkpyNarDpnKirNUuTtSoCwUNPaYJSXLMHXYrfCM2JeX2-7edsAHpdQCIw9_G9ZMBlbmtOtKVG-JaRdkertSqb3BVcjlOOoFwIK3Q=w163-h92-k-no"
+  },
+  {
+    "id": 105,
+    "nama": "Ayam Mertua Cabang UGM",
+    "rating": 4.4,
+    "alamat": "·",
+    "latitude": -7.7622594,
+    "longitude": 110.3903285,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzV6cvDBdFRE6q_OJmyoxWez2vL5r2M7qGq0GUypJxLoksekVx5YR3Y29-uNSPgwhcPnmgwZGTfFfaZhFzK4tbEidKlmnNnpOTlURjBRxE5umw4PMcBYzj5pM58zFMuZpYnpLpv=w163-h92-k-no"
+  },
+  {
+    "id": 106,
+    "nama": "Blanco Coffee And Books",
+    "rating": 4.6,
+    "alamat": "·",
+    "latitude": -7.7814081,
+    "longitude": 110.3647698,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzKcTQOpxkA_gCH72NQ9Oc4Z6uBEPrgnYJ1Z35J-AfCEZtQUD0eUM-zss8-3tsGDNyyyM6Rs2iHuw5jDQBx7d_7NryaSR_u46n15qIZ20tRB2Gyx_36mDAHBBg_eMCNZKP3ZdDf=w122-h92-k-no"
+  },
+  {
+    "id": 107,
+    "nama": "Boulevard UGM",
+    "rating": 4.8,
+    "alamat": "69FG+PGR",
+    "latitude": -7.7756488,
+    "longitude": 110.3762547,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSywGsPVcl3FqTcWyUTxRfZgZ6DWQ6gJ5pjX159ufPyNZ0Kat8n_9v8ZrZ4nc0Ep6pMuChHe0NFqmyXk0FkoRzS9HdtPTKGMKivzaOL44YPSmEVdE7WoRYM2wJTYe0Mmjatpn_F2=w163-h92-k-no"
+  },
+  {
+    "id": 108,
+    "nama": "Sego Tahu Jakal Bulak Sumur",
+    "rating": 4.3,
+    "alamat": "69HG+WP2, Bulaksumur",
+    "latitude": -7.7702293,
+    "longitude": 110.3767808,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxBILdLqGvbFISX0_Gm8Z7eW3klppRLD6MjDhu0s9sAwmhZlzaLTOsps328ZVg1aVE_O8qCiJnwaqoMd8xTogLhUTbCNTwOOmw2jHXqv_zHNWPg9wkaNzty2_qnnCt31H8cHGMF=w163-h92-k-no"
+  },
+  {
+    "id": 109,
+    "nama": "Penyetan Lombok Ijo Masbe (UGM)",
+    "rating": 4.6,
+    "alamat": "Jl. Persatuan",
+    "latitude": -7.7686869,
+    "longitude": 110.3772725,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipP1A75ZK5bslWdvlzSpVVQpPJxVG98R-KU2Zcgs=w80-h106-k-no"
+  },
+  {
+    "id": 110,
+    "nama": "SUNA - Susu Sarjana UNY",
+    "rating": 4.7,
+    "alamat": "·",
+    "latitude": -7.7731805,
+    "longitude": 110.3853821,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSypXsIVXHm5ws5bUBF5QeCRSo1VVwXMRqXkWVC9FA_66hlCPm-y46klqsBDVYqbaOxWmYwIUuv3TdSs865VOgAdYiCUrKn9XnCE-FJprBJ8Qa9dlZxj6q605c0KGNGRUtS1ENiD=w80-h106-k-no"
+  },
+  {
+    "id": 111,
+    "nama": "Kedai Domore",
+    "rating": 4.5,
+    "alamat": "·",
+    "latitude": -7.7646859,
+    "longitude": 110.3791628,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx391bhOlDZg4rU199yrntcNl8Woa-3VYtuTHsnBOJ-hLGHcWeLdynTkjOFQBymrt2Jh9oxTDHvED6bjenZ412hpe9YHKgPFPwbCctRyqfxJzACFe3HAU0hMFS1ysOEd3BldheTlg=w163-h92-k-no"
+  },
+  {
+    "id": 112,
+    "nama": "Pempek Ny. Kamto GIK UGM",
+    "rating": 4.6,
+    "alamat": "Gelanggang Inovasi dan Kreativitas UGM Lantai B001 dan B002",
+    "latitude": -7.775608,
+    "longitude": 110.3759569,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx5I5Pq5qhzjZWcNF-nFSJSF151V5ekg2PDiCeeLP74TJedwxkKZIRD0uVJE9iyycuqVS_ccusYRKvRW5Za1sDLS2Uu79cwu1C4SWQYmvmCZKtjboFSRFbhnrT6vjtW-INd1G_-loLpGqw=w80-h106-k-no"
+  },
+  {
+    "id": 113,
+    "nama": "Toko Kopi Temanggung and Semantra",
+    "rating": 5.0,
+    "alamat": "Jl. Blunyah Rejo TR II No.1092 A",
+    "latitude": -7.7727943,
+    "longitude": 110.3655949,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzzztTEQelSccIWTR_zNCcd9GGy7lVX3Nk3RJ-GmX21kXtsILMUuOzhza05OFUglMVZnkZuSGUWo2AllazkTMEQuQphT2jWSuO078bqFfKDBT-8NRY1GRd307WmWtSD_f9bw44blEq6AGFk=w80-h106-k-no"
+  },
+  {
+    "id": 114,
+    "nama": "Matchaboy Terban",
+    "rating": 5.0,
+    "alamat": "69FC+FWR, Jl. DR. Sardjito",
+    "latitude": -7.7762545,
+    "longitude": 110.3722174,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipOypCKXqC6_ocghsPzNwn-JLo8i5yN5_ArV3atY=w80-h106-k-no"
+  },
+  {
+    "id": 115,
+    "nama": "Seblak Deui Indonesia - UGM",
+    "rating": 4.3,
+    "alamat": "Jl. Lembah UGM No.3",
+    "latitude": -7.770703,
+    "longitude": 110.3832278,
+    "foto": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwdYIpzWWov3yHIkM_lVbvdbzo54RliUAt7v2669urYQcyqj5cP3HEGOrEVdib2fjaJ0Orj3uEUjJFuAtq6PwAl12_u4bzUkt74Ikb0AzsYodYp4Q29lUvy_lPjgiLyCqTNMK1_Sr_7xHbx=w80-h106-k-no"
+  },
+  {
+    "id": 116,
+    "nama": "Nasi Kulit Syuurga GSP UGM",
+    "rating": 4.1,
+    "alamat": "·",
+    "latitude": -7.7706094,
+    "longitude": 110.3766628,
+    "foto": "https://lh3.googleusercontent.com/p/AF1QipPe30sjD7b-xkSxzCIOHaEpWy6wypMcE9SSCTDW=w138-h92-k-no"
+  }
+]
