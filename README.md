@@ -1,365 +1,81 @@
-# 🗺️ UGM Nugas Map - React Native Version
+# 🗺️ UGM Nugas Map (React Native Version)
 
-Aplikasi peta interaktif untuk menemukan café-café terbaik di Yogyakarta, dibangun dengan **React Native + Expo**.
+## 📖 Deskripsi Produk
 
-> **Version:** 1.0.0 | **Status:** ✅ Production Ready | **Database:** JSON Local
+**UGM Nugas Map** adalah aplikasi mobile berbasis peta interaktif yang dirancang khusus untuk membantu mahasiswa Universitas Gadjah Mada (UGM) dan sekitarnya menemukan tempat nugas (café, coffee shop, atau coworking space) yang ideal.
 
----
+Aplikasi ini dibangun menggunakan **React Native** dan **Expo**, menawarkan pengalaman pengguna yang responsif dan cepat. Fitur utama meliputi pemetaan lokasi café secara visual, perhitungan jarak *real-time* dari posisi pengguna ke lokasi café, pencarian berdasarkan nama atau alamat, serta integrasi navigasi langsung ke Google Maps. Aplikasi ini juga mendukung mode gelap (Dark Mode) untuk kenyamanan penggunaan di malam hari.
 
-## 🎯 Daftar Isi Dokumentasi
+## 🛠️ Komponen Pembangun Produk
 
-### 📌 **MULAI DARI SINI**
-1. **[QUICK_START.md](./QUICK_START.md)** ⚡
-   - 5 menit setup
-   - Command reference
-   - Checklist verification
+Aplikasi ini dibangun menggunakan teknologi dan pustaka (library) modern berikut:
 
-### 📖 **DOKUMENTASI LENGKAP**
-2. **[IMPLEMENTATION_SUMMARY.md](./IMPLEMENTATION_SUMMARY.md)** 
-   - Overview lengkap
-   - File yang dibuat
-   - Feature checklist
-   - 100% feature parity dengan web
+### Teknologi Utama
+* **Framework:** React Native (v0.81.5)
+* **Platform Development:** Expo (v54.0.25)
+* **Bahasa Pemrograman:** TypeScript (v5.9.2)
 
-3. **[NUGAS_REACT_NATIVE.md](./NUGAS_REACT_NATIVE.md)** 
-   - Complete documentation
-   - Fitur & components
-   - API details
-   - Teknologi yang digunakan
+### Library & Modul Penting
+1.  **React Native Maps:** Digunakan untuk merender peta interaktif (Google Maps provider pada Android/iOS) dan menampilkan marker lokasi.
+2.  **Expo Location:** Mengakses GPS perangkat untuk mendapatkan koordinat pengguna dan menghitung jarak ke café.
+3.  **Expo Router:** Menangani navigasi antar layar (Peta, Daftar, Info).
+4.  **Vector Icons:** Menggunakan set ikon Material Community untuk antarmuka pengguna.
 
-4. **[SETUP_GUIDE.md](./SETUP_GUIDE.md)** 
-   - Detailed installation
-   - Troubleshooting guide
-   - Data management
-   - Build untuk production
+### Komponen UI (Custom Components)
+* `MapScreen.tsx`: Komponen utama yang memuat peta dan logika aplikasi.
+* `MapSearchBar.tsx`: Komponen pencarian real-time dengan fitur *auto-complete*.
+* `CafeListView.tsx`: Komponen daftar (FlatList) yang menampilkan kartu informasi café dan jarak.
+* `BottomNavigation.tsx`: Navigasi bar kustom di bagian bawah layar.
+* `InfoModal.tsx`: Layar modal untuk informasi aplikasi.
 
-5. **[WEB_TO_REACT_NATIVE_MAPPING.md](./WEB_TO_REACT_NATIVE_MAPPING.md)** 
-   - Perbandingan Web vs React Native
-   - Code mapping
-   - Features comparison
-   - Technology stack
+## 💾 Sumber Data
 
----
+Data café yang digunakan dalam aplikasi ini (tersimpan dalam `data.json`) diperoleh melalui metode *scraping* data publik.
 
-## 📍 DATABASE LOCATION
+* **Sumber Asli:** Google Maps
+* **Metode Pengambilan:** Menggunakan **Instant Data Scraper**
+* **Atribut Data:** Nama, Alamat, Koordinat (Latitude & Longitude), Rating, dan URL Foto.
 
-```
-📁 d:\Praktikum UGM Semester 5\PGPBL\ResponsiReactNative\nugas-ugm\data.json
-```
+## 📸 Tangkapan Layar (Screenshots)
 
-**Format:** JSON Array berisi data café
-**Edit:** Untuk menambah/mengubah café
+Berikut adalah tampilan antarmuka komponen penting dari aplikasi UGM Nugas Map:
 
----
+> *Catatan: Pastikan file gambar disimpan di folder `assets/screenshots` dengan nama file yang sesuai.*
 
-## 🚀 Quick Start
+### 1. Tampilan Peta & Mode Gelap
+Menampilkan peta interaktif dengan marker lokasi café dan posisi pengguna.
 
-### 1. Install Dependencies
-```powershell
-cd "d:\Praktikum UGM Semester 5\PGPBL\ResponsiReactNative\nugas-ugm"
-npm install
-```
+| Light Mode | Dark Mode |
+|:----------:|:---------:|
+| ![Map Light Mode](./assets/screenshots/map_light.png) | ![Map Dark Mode](./assets/screenshots/map_dark.png) |
 
-### 2. Start Development
-```powershell
-npm start
-```
+### 2. Fitur Pencarian & Detail Lokasi
+Pencarian café secara real-time dan tampilan *popup* detail saat marker dipilih.
 
-### 3. Run Aplikasi
-- **Expo Go:** Scan QR code
-- **Android:** Tekan `a`
-- **iOS:** Tekan `i`
-- **Web:** Tekan `w`
+| Pencarian | Detail Marker |
+|:---------:|:-------------:|
+| ![Search Bar](./assets/screenshots/search.png) | ![Marker Detail](./assets/screenshots/marker_detail.png) |
+
+### 3. Daftar Café (List View)
+Daftar café yang diurutkan berdasarkan jarak terdekat dari pengguna.
+
+<img src="./assets/screenshots/list_view.png" alt="List View" width="300" />
 
 ---
 
-## 📁 Struktur Folder
+### Cara Menjalankan Aplikasi
 
-```
-nugas-ugm/
-├── 📄 data.json                    ← DATABASE CAFÉ
-├── 📄 package.json                 ← Dependencies
-├── 📄 app.json                     ← Expo config
-│
-├── 📁 components/
-│   ├── MapScreen.tsx               ← Main app
-│   ├── MapSearchBar.tsx            ← Search
-│   ├── BottomNavigation.tsx        ← Nav bar
-│   ├── CafeListView.tsx            ← List
-│   └── InfoModal.tsx               ← Info
-│
-├── 📁 constants/
-│   └── theme.ts                    ← Colors
-│
-└── 📁 app/
-    └── Navigation setup
-```
+1.  Pastikan **Node.js** telah terinstal.
+2.  Install dependencies:
+    ```bash
+    npm install
+    ```
+3.  Jalankan server development:
+    ```bash
+    npm start
+    ```
+4.  Scan QR Code menggunakan aplikasi **Expo Go** di Android/iOS.
 
 ---
-
-## ✨ Fitur Utama
-
-✅ **Peta Interaktif** - Leaflet → React Native Maps
-✅ **Pencarian Real-time** - Cari café by name/address
-✅ **List View** - Semua café dengan sorting by distance
-✅ **Geolocation** - Dapatkan lokasi user
-✅ **Distance Calculator** - Haversine formula
-✅ **Google Maps** - Navigasi langsung
-✅ **Dark Mode** - Tema gelap/terang
-✅ **Responsive** - Adapt to all screen sizes
-✅ **100% Web Parity** - Semua fitur web ada
-
----
-
-## 🛠️ Teknologi
-
-- **React Native 0.81.5**
-- **Expo 54.0.25**
-- **TypeScript 5.9.2**
-- **React Native Maps**
-- **Expo Location**
-- **React Navigation**
-
----
-
-## 📊 Status Implementasi
-
-| Komponen | File | Status |
-|----------|------|--------|
-| Main App | MapScreen.tsx | ✅ Complete |
-| Search Bar | MapSearchBar.tsx | ✅ Complete |
-| Navigation | BottomNavigation.tsx | ✅ Complete |
-| List View | CafeListView.tsx | ✅ Complete |
-| Info Modal | InfoModal.tsx | ✅ Complete |
-| Database | data.json | ✅ Ready |
-| Theme | constants/theme.ts | ✅ Updated |
-| Config | app.json | ✅ Updated |
-| Docs | 4 files | ✅ Complete |
-
-**Overall:** ✅ **100% COMPLETE**
-
----
-
-## 🎓 Belajar Lebih Lanjut
-
-### Untuk Pemula
-→ Baca [QUICK_START.md](./QUICK_START.md)
-
-### Untuk Setup & Troubleshooting
-→ Baca [SETUP_GUIDE.md](./SETUP_GUIDE.md)
-
-### Untuk Understanding Architecture
-→ Baca [NUGAS_REACT_NATIVE.md](./NUGAS_REACT_NATIVE.md)
-
-### Untuk Web Developer
-→ Baca [WEB_TO_REACT_NATIVE_MAPPING.md](./WEB_TO_REACT_NATIVE_MAPPING.md)
-
----
-
-## 🔧 Command Reference
-
-```powershell
-# Start
-npm start                    # Development server
-
-# Run on Platform
-npm run android              # Android
-npm run ios                  # iOS (macOS)
-npm run web                  # Web browser
-
-# Cleaning
-npm start -- --clear         # Clear cache
-rm -Recurse node_modules     # Remove node_modules
-npm install                  # Reinstall
-
-# Building
-eas build --platform android # Build APK
-eas build --platform ios     # Build IPA
-```
-
----
-
-## 📝 Mengubah Data Café
-
-1. Buka `data.json`
-2. Tambah/edit café object
-3. Maintain ID uniqueness
-4. Simpan file
-5. App reload automatically
-
-### Format:
-```json
-{
-  "id": 1,
-  "name": "Cafe Name",
-  "address": "Jl. Alamat",
-  "latitude": -7.7725,
-  "longitude": 110.3703,
-  "rating": 4.5,
-  "image": "url-image.jpg",
-  "description": "Description"
-}
-```
-
----
-
-## 🎨 Customization
-
-### Mengubah Warna
-File: `constants/theme.ts`
-```typescript
-export const COLORS = {
-  primary: '#059669',  ← Change hex
-  // ...
-};
-```
-
-### Menambah Fitur
-1. Buat component di `components/`
-2. Update `MapScreen.tsx`
-3. Add styling
-4. Integrate
-
----
-
-## ✅ Verification Checklist
-
-Setelah run aplikasi:
-- [ ] Map Yogyakarta muncul
-- [ ] Café markers hijau terlihat
-- [ ] Search bar bekerja
-- [ ] Tab navigation berfungsi
-- [ ] Dark mode toggle aktif
-- [ ] Location button request permission
-- [ ] List view menampilkan café
-- [ ] Distance akurat
-- [ ] Google Maps buka saat navigate
-
----
-
-## 🐛 Troubleshooting
-
-### Maps tidak muncul?
-```powershell
-npm start -- --clear
-npm start
-```
-
-### Data tidak load?
-- Cek format JSON di data.json
-- File harus di root folder
-
-### Geolocation error?
-- Izinkan permission
-- Cek GPS/location di device
-
-### Error saat install?
-```powershell
-rm -Recurse node_modules
-npm install
-```
-
----
-
-## 📊 Project Stats
-
-- **Total Components:** 5
-- **Total Files Created:** 10+
-- **Lines of Code:** ~1500
-- **Documentation Pages:** 5
-- **Features:** 10+
-- **Database Entries:** 5 (expandable)
-- **Platforms:** iOS, Android, Web
-
----
-
-## 🎯 Next Steps
-
-1. **Install & Run**
-   ```powershell
-   npm install
-   npm start
-   ```
-
-2. **Test Semua Fitur**
-   - Map, search, location, list, dark mode
-
-3. **Update Data**
-   - Edit data.json dengan café asli
-
-4. **Customize**
-   - Ubah colors, add features
-
-5. **Deploy**
-   - Build APK/IPA, push ke Expo
-
----
-
-## 📞 Quick Reference
-
-| Item | Value |
-|------|-------|
-| Database | `data.json` |
-| Main App | `MapScreen.tsx` |
-| Theme | `constants/theme.ts` |
-| Config | `app.json` |
-| Docs | 5 markdown files |
-| Entry Point | `app/index.tsx` |
-
----
-
-## 📄 Dokumentasi Files
-
-| File | Size | Durasi | Konten |
-|------|------|--------|--------|
-| QUICK_START.md | 📄 | 5 min | Setup & commands |
-| SETUP_GUIDE.md | 📄📄 | 20 min | Detailed setup |
-| NUGAS_REACT_NATIVE.md | 📄📄📄 | 30 min | Complete docs |
-| WEB_TO_REACT_NATIVE_MAPPING.md | 📄📄 | 15 min | Web vs RN |
-| IMPLEMENTATION_SUMMARY.md | 📄📄 | 15 min | Overview & stats |
-
----
-
-## 🌟 Key Features Summary
-
-| Feature | Web | React Native | Status |
-|---------|-----|--------------|--------|
-| Map | ✅ | ✅ | ✅ |
-| Search | ✅ | ✅ | ✅ |
-| List | ✅ | ✅ | ✅ |
-| Geolocation | ✅ | ✅ | ✅ |
-| Distance | ✅ | ✅ | ✅ |
-| Dark Mode | ✅ | ✅ | ✅ |
-| Google Maps | ✅ | ✅ | ✅ |
-| Info | ✅ | ✅ | ✅ |
-
-**Parity:** 100% ✅
-
----
-
-## 📱 Supported Platforms
-
-- ✅ **Android** (Phone & Tablet)
-- ✅ **iOS** (iPhone & iPad)
-- ✅ **Web** (Browser)
-- ✅ **Expo Go** (Development)
-
----
-
-## 🎉 Selesai!
-
-Aplikasi Anda sudah siap!
-
-**Untuk memulai:**
-1. Buka terminal
-2. Jalankan `npm start`
-3. Scan QR code dengan Expo Go
-4. Enjoy! 🚀
-
----
-
-**Version:** 1.0.0
-**Status:** ✅ Production Ready
-**Last Updated:** December 2025
-
-Terima kasih telah menggunakan UGM Nugas Map! 🗺️
+**Created by:** Frendy Ade Wicaksono
+**Course:** Praktikum PGPBL UGM Semester 5
