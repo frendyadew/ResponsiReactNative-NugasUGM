@@ -47,19 +47,19 @@ Menampilkan peta interaktif dengan marker lokasi café dan posisi pengguna.
 
 | Light Mode | Dark Mode |
 |:----------:|:---------:|
-| ![Map Light Mode](./assets/screenshots/1.png) | ![Map Dark Mode](./assets/screenshots/2.png) |
+| ![Map Light Mode](./assets/screenshots/1.jpg) | ![Map Dark Mode](./assets/screenshots/2.jpg) |
 
 ### 2. Fitur Pencarian & Detail Lokasi
 Pencarian café secara real-time dan tampilan *popup* detail saat marker dipilih.
 
 | Detail Marker |
 |:-------------:|
-| ![Marker Detail](./assets/screenshots/3.png) |
+| ![Marker Detail](./assets/screenshots/3.jpg) |
 
 ### 3. Daftar Café (List View)
 Daftar café yang diurutkan berdasarkan jarak terdekat dari pengguna.
 
-<img src="./assets/screenshots/4.png" alt="List View" width="300" />
+<img src="./assets/screenshots/4.jpg" alt="List View" width="300" />
 
 ---
 
