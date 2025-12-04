@@ -7,7 +7,6 @@ import {
   Text,
   TouchableOpacity,
   Image,
-  ScrollView,
 } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
@@ -30,14 +29,16 @@ interface MapSearchBarProps {
   cafes: Cafe[];
   filteredCafes: Cafe[];
   onCafeSelect?: (cafe: Cafe) => void;
+  onDropdownVisibilityChange: (isVisible: boolean) => void; // Prop baru
 }
 
-export default function MapSearchBar({ 
+export default function MapSearchBar({
   onSearch, 
   darkMode, 
   cafes, 
   filteredCafes,
-  onCafeSelect 
+  onCafeSelect,
+  onDropdownVisibilityChange // Tambahkan prop ini di sini
 }: MapSearchBarProps) {
   const [query, setQuery] = useState('');
   const [showResults, setShowResults] = useState(false);
@@ -46,12 +47,15 @@ export default function MapSearchBar({
   const handleChangeText = (text: string): void => {
     setQuery(text);
     onSearch(text);
-    setShowResults(text.length > 0);
+    const isVisible = text.length > 0;
+    setShowResults(isVisible);
+    onDropdownVisibilityChange(isVisible);
   };
 
   const handleCafeSelect = (cafe: Cafe) => {
     setQuery('');
     setShowResults(false);
+    onDropdownVisibilityChange(false);
     onCafeSelect?.(cafe);
   };
 
@@ -98,11 +102,7 @@ export default function MapSearchBar({
       </View>
 
       {showResults && filteredCafes.length > 0 && (
-        <View 
-          style={[styles.dropdown, darkMode && styles.dropdownDark]}
-          onStartShouldSetResponderCapture={() => true}
-          onMoveShouldSetResponderCapture={() => true}
-        >
+        <View style={[styles.dropdown, darkMode && styles.dropdownDark]} pointerEvents="auto">
           <FlatList
             data={filteredCafes}
             scrollEnabled={true}
@@ -205,7 +205,8 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.15,
     shadowRadius: 32,
     elevation: 10,
-    zIndex: 101,
+    // Ensure the dropdown is above the map and captures touch events
+    zIndex: 999, // Set a very high zIndex
   },
   dropdownDark: {
     backgroundColor: 'rgba(31, 41, 55, 0.98)',

@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { StyleSheet, View, Text, ScrollView, TouchableOpacity, Alert, ActivityIndicator, useColorScheme, Platform, Modal, StatusBar } from 'react-native';
+import { StyleSheet, View, Text, ScrollView, TouchableOpacity, Alert, ActivityIndicator, useColorScheme, Platform, Modal, StatusBar, Image } from 'react-native';
 import MapSearchBar from './MapSearchBar';
 import BottomNavigation from './BottomNavigation';
 import CafeListView from './CafeListView';
@@ -154,6 +154,7 @@ export default function MapScreen() {
   const [darkMode, setDarkMode] = useState(false);
   const [selectedMarker, setSelectedMarker] = useState<Cafe | null>(null);
   const [showMarkerModal, setShowMarkerModal] = useState(false);
+  const [isDropdownVisible, setIsDropdownVisible] = useState(false); // State baru
   const [pendingAnimation, setPendingAnimation] = useState<Cafe | null>(null); // State baru
   const [mapKey, setMapKey] = useState(0);
   const mapViewRef = useRef<any>(null);
@@ -366,6 +367,8 @@ export default function MapScreen() {
                 style={styles.map}
                 initialRegion={YOGYAKARTA_COORDS}
                 customMapStyle={darkMode ? darkMapStyle : undefined}
+                // Menonaktifkan event pointer di peta saat dropdown terlihat
+                pointerEvents={isDropdownVisible ? 'none' : 'auto'}
               >
                 {cafes.map((cafe: Cafe) => (
                   <Marker
@@ -395,6 +398,7 @@ export default function MapScreen() {
               cafes={cafes}
               filteredCafes={filteredCafes}
               onCafeSelect={handleCafeListItemPress}
+              onDropdownVisibilityChange={setIsDropdownVisible}
             />
           </>
         )}
@@ -432,22 +436,27 @@ export default function MapScreen() {
 
             {selectedMarker && (
               <ScrollView contentContainerStyle={styles.modalScroll}>
-                <Text style={[styles.modalTitle, darkMode && styles.modalTitleDark]}>
-                  {selectedMarker.name}
-                </Text>
+                <View style={styles.modalHeaderContent}>
+                  <Image source={{ uri: selectedMarker.image }} style={styles.modalImage} />
+                  <View style={styles.modalDetails}>
+                    <Text style={[styles.modalTitle, darkMode && styles.modalTitleDark]}>
+                      {selectedMarker.name}
+                    </Text>
 
-                <View style={styles.modalRating}>
-                  {[...Array(5)].map((_, i) => (
-                    <MaterialCommunityIcons
-                      key={i}
-                      name={i < Math.round(selectedMarker.rating) ? 'star' : 'star-outline'}
-                      size={20}
-                      color="#f59e0b"
-                    />
-                  ))}
-                  <Text style={[styles.ratingText, darkMode && styles.ratingTextDark]}>
-                    ({selectedMarker.rating})
-                  </Text>
+                    <View style={styles.modalRating}>
+                      {[...Array(5)].map((_, i) => (
+                        <MaterialCommunityIcons
+                          key={i}
+                          name={i < Math.round(selectedMarker.rating) ? 'star' : 'star-outline'}
+                          size={20}
+                          color="#f59e0b"
+                        />
+                      ))}
+                      <Text style={[styles.ratingText, darkMode && styles.ratingTextDark]}>
+                        ({selectedMarker.rating})
+                      </Text>
+                    </View>
+                  </View>
                 </View>
 
                 <Text style={[styles.modalAddress, darkMode && styles.modalAddressDark]}>
@@ -617,5 +626,20 @@ const styles = StyleSheet.create({
     color: 'white',
     fontSize: 14,
     fontWeight: '600',
+  },
+  modalHeaderContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: 16,
+  },
+  modalImage: {
+    width: 100,
+    height: 100,
+    borderRadius: 12,
+    marginRight: 16,
+    backgroundColor: '#e5e7eb',
+  },
+  modalDetails: {
+    flex: 1,
   },
 });
