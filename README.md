@@ -40,8 +40,6 @@ Data café yang digunakan dalam aplikasi ini (tersimpan dalam `data.json`) diper
 
 Berikut adalah tampilan antarmuka komponen penting dari aplikasi UGM Nugas Map:
 
-> *Catatan: Pastikan file gambar disimpan di folder `assets/screenshots` dengan nama file yang sesuai.*
-
 ### 1. Tampilan Peta & Mode Gelap
 Menampilkan peta interaktif dengan marker lokasi café dan posisi pengguna.
 
